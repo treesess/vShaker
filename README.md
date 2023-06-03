@@ -1,6 +1,9 @@
 # vShaker
 low cost shake table and demostrative test models based on Klipper and FDM mainly for educational purposes
 
+![image](https://github.com/treesess/vShaker/assets/20311124/b4626e36-1ad1-4af1-8090-2da2309b10b5)
+
+
 ## intro
 This is a lightweight, low cost, educational demonstrative shaker table project with test models. 
 
