@@ -3,9 +3,13 @@ low cost shake table and demostrative test models based on Klipper and FDM mainl
 
 ## keywords about this project
 seismic demo
+
 earthquake demonstration
+
 shake table
+
 shake table experiments
+
 shaker
 ground motion
 educational demonstration
