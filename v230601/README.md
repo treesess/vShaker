@@ -1,11 +1,15 @@
 
-# vShaker - SORTING AND UPLOADING IN PROGRESS
-low cost shake table and demostrative test models based on Klipper and FDM mainly for educational purposes
+# vShaker
+
+low cost shake table and demostrative test models based on Klipper and FDM mainly for educational purposes. 
+
+**This is the old version of the design. Please go to the newer folder. Thanks.**
 
 ![image](https://github.com/treesess/vShaker/assets/20311124/b4626e36-1ad1-4af1-8090-2da2309b10b5)
 
 
 ## intro
+
 This is a lightweight, low cost, educational demonstrative shaker table project with test models. 
 
 The goal here is to use the basis of DIY 3D printer construction to make a simulation of ground seismic motion. Being a lover of FDM printers (especially Voron), this is my best idea to realize the function. 
