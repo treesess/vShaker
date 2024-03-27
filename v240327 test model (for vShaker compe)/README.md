@@ -89,7 +89,7 @@ If failed to vibrate enough after casting, the quality and appearance of the sla
 
 ![image](https://github.com/treesess/vShaker/assets/20311124/cd59e03c-02ea-4bcc-963a-1aa47cc51246)
 
-
+Suggest using ABS but not PLA to print the slab frame since PLA will do bad with water. i used eSUN PLA+ in the beginning, looked okay but not durable enough. so i started to switch to ABS prints. 
 
 ## misc. 
 
