@@ -1,11 +1,14 @@
 
 ## intro
 
-This is the test model for taster programmes held for young students to play with. 
+This is the test model info and materials for taster programmes held for young students to play with. N
+
+Note that this is just for short gameplay (excluding the speech and talks, only 1 hour of actual gameplay) without extra preparation for the young participants. So the purpose is for fun for the youngsters therefor might not look so pretty made by the students. i would say the potential of this design is large lol. 
+
+----
 
 
-
-Students making the model for this only 2-hour taster game:
+Students making the model for this short taster game:
 
 ![image](https://github.com/treesess/vShaker/assets/20311124/2d417b1a-1ebb-475c-9e09-72ca7f409a55)
 
@@ -13,7 +16,7 @@ Ready to shake and see which team would win:
 
 ![image](https://github.com/treesess/vShaker/assets/20311124/b17575ed-ead5-4932-8136-0513cf66993f)
 
-game play result of one of our taster: 
+gameplay result of one of our tasters: 
 
 ![image](https://github.com/treesess/vShaker/assets/20311124/4f02be81-37f1-4e5a-9039-08e25c8d093e)
 
@@ -87,3 +90,7 @@ If failed to vibrate enough after casting, the quality and appearance of the sla
 ![image](https://github.com/treesess/vShaker/assets/20311124/cd59e03c-02ea-4bcc-963a-1aa47cc51246)
 
 
+
+## misc. 
+
+Please refer to the PDF manual for building the how of building the model to play the game. 
